@@ -134,8 +134,7 @@ The chatbot ensures **instant, reliable, and scalable** support.
 ---
 ## 🖼️ Workflow Screenshot
 
-![AI Mentor Chatbot Workflow](<img width="1920" height="860" alt="AI Mentor Chatbot For Innomatics" src="https://github.com/user-attachments/assets/a76cdce9-b15a-4c80-856b-466598797245" />
-)
+<img width="1920" height="860" alt="AI Mentor Chatbot For Innomatics" src="https://github.com/user-attachments/assets/aa8bd75f-9503-4d9f-b525-cdc858dba8a7" />
 
 
 ## 📌 **How to Use**
